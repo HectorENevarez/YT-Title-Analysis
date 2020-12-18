@@ -5,6 +5,12 @@ This analysis provides insight as to what kind of language in a science & techno
 **Python Version:** 3.6 <br>
 **Packages:** Pandas, Langdetect, NLTK, Seaborn, Matplotlib, Heapq, Itertools, Textstat, Selenium
 
+## Data
+Any data used for this analysis can be found in the data directory:
+```bash
+cd ./data
+```
+
 ## Web Scraping
 All video scraping scripts can be accessed by navigating to the scraping_data directory:
 ```bash
