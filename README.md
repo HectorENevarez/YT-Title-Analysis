@@ -31,5 +31,5 @@ The data cleaning was included in the youtube_title_data_analysis.ipynb file's f
 The goal of the data analysis was to provide insight as to what kind of language in the video title yielded the highest amount of views. The first approach was to analyze the bigrams that had the highest amount of views. I compared the different types of bigrams that had the most views on average from the entire dataset to the bigrams of small, medium, and large YouTube channels
 
 
-![ ](./images/bigrams_all.png =100x20)
+![ ](images/bigrams_all.png =100x20)
 
